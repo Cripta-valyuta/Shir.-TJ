@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(70, 65, 85);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    padding: 20px 50px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    background-color: rgb(31, 108, 175);
+    cursor: pointer;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;box-shadow: 0px 5px 10px
+    #000;
+}
